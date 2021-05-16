@@ -1,14 +1,246 @@
+body{
+    width: 0 ;
+    width: 90%;
+}
 h2{
     font-family: 'Dancing Script', cursive;
     float:inline-end;
+    
 }
 #delicious{
     float: left;
+    top: 2px;
 }
 
-#logo{
-    font-size: 10px;
-    top: 2000px; 
+h2 #logo{
+    font-size: 7px; 
+    text-align: left;
+    float: inline-end;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   
 }
 
+.a  {
+    
+    float:right;
+    padding: 2px;
+}
+.b{
+    float: right;
+    padding: 2px;
+
+}
+.b{
+    float: right;
+    padding: 2px;
+}
+.c{
+    float: right;
+    padding: 2px;
+}
+.d{
+    float: right;
+    padding: 2px;
+}
+.e{
+    float: right;
+    padding: 2px;
+}
+.f{
+    float: right;
+    padding: 2px;
+    
+}
+.g{
+    float: right;
+    padding: 2px ;
+}
+.h{
+    float: right;
+    padding: 2px;
+}
+
+main div section h1{
+    font-weight:bolder;
+    font-size: xx-large;
+}
+main div section p{
+    font-size:xx-small;
+    text-align: left;
+}
+main div section img{
+  width: 100%;
+}
+
+#l{
+    text-align:justify;
+    padding: 15px;
+    line-height: 6mm;
+    text-indent: 7mm;
+}
+#m{
+    text-align: justify;
+    padding: 15px;
+    line-height:6mm;
+    text-indent: 7mm;
+
+}
+
+#n{
+    text-align: justify;
+    padding: 15px;
+    line-height: 6mm;
+    text-indent: 7mm;
+
+}
+
+#noteimg{
+    width: 100%;
+}
+
+#aa   {
+    
+    text-decoration: none;
+    color: black;
+}
+#aa:hover{
+    color: rgb(201, 0, 0);
+    text-decoration: line-through;
+}
+
+
+#bb{
+    text-decoration: none;
+    color: black;
+}
+#bb:hover{
+    color: rgb(201, 0, 0);
+    text-decoration: line-through;
+}
+
+#cc{
+    text-decoration: none;
+    color: black;
+
+}
+#cc:hover{
+    color: rgb(201, 0, 0);
+    text-decoration: line-through;
+}
+#dd{
+    text-decoration: none;
+    color: black;
+}
+#dd:hover{
+    color: rgb(201, 0, 0);
+    text-decoration: line-through;
+}
+
+#ee{
+    text-decoration: none;
+    color: black;
+}
+#ee:hover{
+    color: rgb(201, 0, 0);
+    text-decoration: line-through;
+}
+#ff {
+    text-decoration: none;
+    color: black;
+}
+#ff:hover{
+    color: rgb(201, 0, 0);
+    text-decoration: line-through;
+}
+
+#gg{
+    text-decoration: none;
+    color: black;
+}
+#gg:hover{
+    color: rgb(201, 0, 0);
+    text-decoration: line-through;
+}
+#hh{
+    text-decoration: none;
+    color: black;
+}
+#hh:hover{
+    color: rgb(201, 0, 0);
+    text-decoration: line-through;
+
+}
+
+#ii{
+    text-decoration: none;
+    color: black;
+}
+#ii:hover{
+    color: rgb(201, 0, 0);
+    text-decoration: line-through;
+}
+
+#jj{
+    text-decoration: none;
+    color: black;
+}
+#jj:hover{
+    color: rgb(201, 0, 0);
+    text-decoration: line-through;
+}
+#kk{
+    text-decoration: none;
+    color: black;
+}
+#kk:hover{
+    color: rgb(201, 0, 0);
+    text-decoration: line-through;
+}
+#ll{
+    text-decoration: none;
+    color: black;
+}
+#ll:hover{
+    color: rgb(201, 0, 0);
+    text-decoration: line-through;
+}
+
+
+#thegirl{
+    float: left;
+}
+h5{
+    float: inline-end;
+    padding: 5px;
+}
+aside p{
+    float: inline-end;
+    font-size: smaller;
+    text-align:start;
+    padding: 1px;
+}
+
+
+button{
+    float:right;
+    background-color: rgb(248, 120, 69);
+    color: linen;
+    padding: 5px;
+    text-align: right;
+
+
+}
+
+footer img{
+    padding:  0 500px;
+    float: none;
+}
+
+.new{
+    position:relative;
+}
+
+footer{
+    text-align: center;
+    color: rgb(139, 134, 134);
+}
