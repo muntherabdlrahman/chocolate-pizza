@@ -1,6 +1,6 @@
 body{
-    width: 0 ;
-    width: 90%;
+     
+    width: 100%;
 }
 h2{
     font-family: 'Dancing Script', cursive;
@@ -162,13 +162,17 @@ main div section img{
     text-decoration: line-through;
 }
 #hh{
-    text-decoration: none;
-    color: black;
+    text-decoration:none;
+    color:black;
 }
 #hh:hover{
     color: rgb(201, 0, 0);
     text-decoration: line-through;
 
+}
+#hh::after{
+    text-decoration: line-through;
+    color:red;
 }
 
 #ii{
